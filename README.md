@@ -1,17 +1,26 @@
-# kancha
+# ERP Application (Flutter + Supabase)
 
-A new Flutter project.
+An **ERP (Enterprise Resource Planning)** application built with **Flutter** and powered by **Supabase** as the backend database.  
+This project demonstrates modern ERP features such as authentication, data management, and real-time updates.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📱 Cross-platform Flutter app (Android, iOS, Web, Desktop)
+- 🔐 Authentication (Supabase Auth)
+- 🗄️ Database integration with Supabase (PostgreSQL)
+- ⚡ Real-time data sync
+- 📊 ERP modules (Inventory, Sales, HR, Finance, etc.)
+- 🌐 RESTful + GraphQL APIs support via Supabase
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend:** Supabase (PostgreSQL, Auth, Storage)
+- **State Management:** Provider / Riverpod / Bloc (choose your implementation)
+- **Deployment:** Firebase Hosting / Vercel / Custom server
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# arker
+---
+
+## 📂 Project Structure
