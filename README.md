@@ -24,3 +24,4 @@ This project demonstrates modern ERP features such as authentication, data manag
 ---
 
 ## 📂 Project Structure
+- Web
