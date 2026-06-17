@@ -69,14 +69,14 @@ class DateCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 StyledText(
-                  content: DateFormat.MMM().format(date),
+                  content: DateFormat.MMM('ru').format(date),
                   weight: 600,
                   color: isSelected ? 0xFFFFFFFF : 0xFF1689ef,
                 ),
                 StyledText(content: '${date.day}', color: isSelected ? 0xFFFFFFFF : 0xFF1689ef),
                 const SizedBox(height: 6),
                 StyledText(
-                  content: DateFormat.E().format(date),
+                  content: DateFormat.E('ru').format(date),
                   color: isSelected ? 0xFFFFFFFF : 0xFF1689ef,
                 ),
               ],
