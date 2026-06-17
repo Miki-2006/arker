@@ -14,10 +14,10 @@ class FilterWidget extends StatelessWidget {
   });
 
   final Map<TaskStatusFilter, String> _labels = const {
-    TaskStatusFilter.all: 'All',
-    TaskStatusFilter.done: 'Done',
-    TaskStatusFilter.pending: 'Pending',
-    TaskStatusFilter.todo: 'To-Do',
+    TaskStatusFilter.all: 'Все',
+    TaskStatusFilter.done: 'Готово',
+    TaskStatusFilter.pending: 'В ожидании',
+    TaskStatusFilter.todo: 'К выполнению',
   };
 
   static const Color selectedBgColor = Color(0xFF19568c);  // #5F33E1
