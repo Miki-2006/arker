@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:kancha/pages/home/balanc/balanc_widget.dart';
-import 'package:kancha/pages/home/diagrams/salary_diagram.dart';
 import 'package:kancha/pages/home/notifications/notifications_screen.dart';
 import 'package:kancha/pages/home/user_card_widget.dart';
 import 'package:kancha/providers/balanc_provider.dart';
@@ -70,7 +69,6 @@ class _HomePageState extends State<HomePage> {
               ],
             ),
           ),
-          SalaryDiagram(),
         ],
       ),
     );
