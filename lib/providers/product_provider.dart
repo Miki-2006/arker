@@ -1,7 +1,7 @@
 import 'dart:collection';
 import 'package:flutter/material.dart';
-import 'package:kancha/models/product_model.dart';
-import 'package:kancha/services/product_service.dart';
+import 'package:arker/models/product_model.dart';
+import 'package:arker/services/product_service.dart';
 
 class ProductProvider with ChangeNotifier {
   final List<ProductModel> _products = [];

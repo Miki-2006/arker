@@ -1,4 +1,4 @@
-import 'package:kancha/models/company_model.dart';
+import 'package:arker/models/company_model.dart';
 
 class UserModel {
   final String id;

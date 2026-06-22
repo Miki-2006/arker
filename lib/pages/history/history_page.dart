@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 
 class HistoryPage extends StatefulWidget {
   const HistoryPage({super.key});

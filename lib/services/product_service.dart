@@ -1,4 +1,4 @@
-import 'package:kancha/models/product_model.dart';
+import 'package:arker/models/product_model.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class ProductService {

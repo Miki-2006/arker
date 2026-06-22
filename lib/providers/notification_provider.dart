@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:kancha/models/notification_model.dart';
-import 'package:kancha/services/notification_service.dart';
+import 'package:arker/models/notification_model.dart';
+import 'package:arker/services/notification_service.dart';
 
 class NotificationProvider with ChangeNotifier {
   final List<NotificationModel> _notifications = [];

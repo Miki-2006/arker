@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:kancha/pages/home/diagrams/components/diagram_title.dart';
+import 'package:arker/pages/home/diagrams/components/diagram_title.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
 class SalaryDiagram extends StatefulWidget {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/task_model.dart';
-import 'package:kancha/models/user_model.dart';
-import 'package:kancha/providers/task_provider.dart';
-import 'package:kancha/providers/user_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/task_model.dart';
+import 'package:arker/models/user_model.dart';
+import 'package:arker/providers/task_provider.dart';
+import 'package:arker/providers/user_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:provider/provider.dart';
 
 class AddTaskWidget extends StatefulWidget {

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/pages/home/balanc/balanc_widget.dart';
-import 'package:kancha/pages/home/balanc/components/history_card.dart';
-import 'package:kancha/providers/balanc_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/pages/home/balanc/balanc_widget.dart';
+import 'package:arker/pages/home/balanc/components/history_card.dart';
+import 'package:arker/providers/balanc_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 import 'package:provider/provider.dart';
 
 class BalancHistoryScreen extends StatefulWidget {

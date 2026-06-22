@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/pages/warehouse/components/app_bar_widget.dart';
-import 'package:kancha/pages/warehouse/products/products_screen.dart';
-import 'package:kancha/pages/warehouse/raw-materials/raw_material_screen.dart';
-import 'package:kancha/pages/warehouse/add_item_to_warehouse_widget.dart';
-import 'package:kancha/pages/warehouse/add_raw_material_widget.dart';
-import 'package:kancha/widgets/icons/add_button_widget.dart';
+import 'package:arker/pages/warehouse/components/app_bar_widget.dart';
+import 'package:arker/pages/warehouse/products/products_screen.dart';
+import 'package:arker/pages/warehouse/raw-materials/raw_material_screen.dart';
+import 'package:arker/pages/warehouse/add_item_to_warehouse_widget.dart';
+import 'package:arker/pages/warehouse/add_raw_material_widget.dart';
+import 'package:arker/widgets/icons/add_button_widget.dart';
 
 class WarehousePage extends StatefulWidget {
   const WarehousePage({super.key});

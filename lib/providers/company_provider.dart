@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:kancha/models/company_model.dart';
-import 'package:kancha/services/company_service.dart';
+import 'package:arker/models/company_model.dart';
+import 'package:arker/services/company_service.dart';
 
 class CompanyProvider with ChangeNotifier {
   final List<CompanyModel> _company = [];

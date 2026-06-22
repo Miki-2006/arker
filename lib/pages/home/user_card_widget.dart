@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/pages/home/balanc/balanc_history_screen.dart';
-import 'package:kancha/providers/notification_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/pages/home/balanc/balanc_history_screen.dart';
+import 'package:arker/providers/notification_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:provider/provider.dart';
 

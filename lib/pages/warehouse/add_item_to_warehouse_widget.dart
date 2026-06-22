@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/raw_material_model.dart';
-import 'package:kancha/models/warehouse_model.dart';
-import 'package:kancha/providers/raw_material_provider.dart';
-import 'package:kancha/providers/warehouse_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/raw_material_model.dart';
+import 'package:arker/models/warehouse_model.dart';
+import 'package:arker/providers/raw_material_provider.dart';
+import 'package:arker/providers/warehouse_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:provider/provider.dart';
 
 class AddItemToWarehouseWidget extends StatefulWidget {

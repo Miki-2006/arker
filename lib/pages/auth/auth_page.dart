@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/pages/auth/login/login_page.dart';
-import 'package:kancha/pages/auth/signup/signup_page.dart';
-import 'package:kancha/widgets/logo_widget.dart';
+import 'package:arker/pages/auth/login/login_page.dart';
+import 'package:arker/pages/auth/signup/signup_page.dart';
+import 'package:arker/widgets/logo_widget.dart';
 
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key});

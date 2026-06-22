@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/pages/home/balanc/balanc_widget.dart';
-import 'package:kancha/pages/home/notifications/notifications_screen.dart';
-import 'package:kancha/pages/home/user_card_widget.dart';
-import 'package:kancha/providers/balanc_provider.dart';
-import 'package:kancha/providers/user_provider.dart';
+import 'package:arker/pages/home/balanc/balanc_widget.dart';
+import 'package:arker/pages/home/notifications/notifications_screen.dart';
+import 'package:arker/pages/home/user_card_widget.dart';
+import 'package:arker/providers/balanc_provider.dart';
+import 'package:arker/providers/user_provider.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/providers/notification_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/providers/notification_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:provider/provider.dart';
 
 class NotificationDetail extends StatefulWidget {

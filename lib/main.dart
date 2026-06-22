@@ -1,16 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:kancha/providers/balanc_provider.dart';
-import 'package:kancha/providers/company_provider.dart';
-import 'package:kancha/providers/notification_provider.dart';
-import 'package:kancha/providers/product_provider.dart';
-import 'package:kancha/providers/raw_material_provider.dart';
-import 'package:kancha/providers/task_provider.dart';
-import 'package:kancha/providers/user_provider.dart';
-import 'package:kancha/providers/warehouse_provider.dart';
+import 'package:arker/providers/balanc_provider.dart';
+import 'package:arker/providers/company_provider.dart';
+import 'package:arker/providers/notification_provider.dart';
+import 'package:arker/providers/product_provider.dart';
+import 'package:arker/providers/raw_material_provider.dart';
+import 'package:arker/providers/task_provider.dart';
+import 'package:arker/providers/user_provider.dart';
+import 'package:arker/providers/warehouse_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:kancha/main_shell.dart';
+import 'package:arker/main_shell.dart';
 import 'package:intl/date_symbol_data_local.dart';
 
 Future<void> main() async {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/models/notification_model.dart';
-import 'package:kancha/pages/home/notifications/components/notification_detail.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/notification_model.dart';
+import 'package:arker/pages/home/notifications/components/notification_detail.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class NotificationCard extends StatelessWidget {
   final String id;

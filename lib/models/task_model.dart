@@ -1,4 +1,4 @@
-import 'package:kancha/models/user_model.dart';
+import 'package:arker/models/user_model.dart';
 
 enum TaskStatus { pending, done, toDo }
 

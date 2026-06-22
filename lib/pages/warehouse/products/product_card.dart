@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/warehouse_model.dart';
-import 'package:kancha/pages/warehouse/products/product_details.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/warehouse_model.dart';
+import 'package:arker/pages/warehouse/products/product_details.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class ProductCard extends StatelessWidget {
   final ProductWarehouseModel productInWarehouse;

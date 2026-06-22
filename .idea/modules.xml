@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kancha.iml" filepath="$PROJECT_DIR$/kancha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/kancha_android.iml" filepath="$PROJECT_DIR$/android/kancha_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arker.iml" filepath="$PROJECT_DIR$/arker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/arker_android.iml" filepath="$PROJECT_DIR$/android/arker_android.iml" />
     </modules>
   </component>
 </project>

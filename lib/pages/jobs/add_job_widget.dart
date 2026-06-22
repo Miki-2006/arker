@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/job_model.dart';
-import 'package:kancha/pages/warehouse/raw_material_checkbox.dart';
-import 'package:kancha/providers/job_provider.dart';
-import 'package:kancha/providers/raw_material_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/job_model.dart';
+import 'package:arker/pages/warehouse/raw_material_checkbox.dart';
+import 'package:arker/providers/job_provider.dart';
+import 'package:arker/providers/raw_material_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:provider/provider.dart';
 
 class AddJobWidget extends StatefulWidget {

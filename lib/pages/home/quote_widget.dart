@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/quote_model.dart';
-import 'package:kancha/services/fetch_quote_service.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/models/quote_model.dart';
+import 'package:arker/services/fetch_quote_service.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 
 class QuoteWidget extends StatefulWidget {
   const QuoteWidget({super.key});

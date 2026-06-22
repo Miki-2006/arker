@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:kancha/models/task_model.dart';
-import 'package:kancha/services/task_service.dart';
+import 'package:arker/models/task_model.dart';
+import 'package:arker/services/task_service.dart';
 import 'dart:collection';
 
 class TaskProvider with ChangeNotifier {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/product_model.dart';
-import 'package:kancha/pages/warehouse/products/products_list.dart';
-import 'package:kancha/providers/raw_material_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/models/product_model.dart';
+import 'package:arker/pages/warehouse/products/products_list.dart';
+import 'package:arker/providers/raw_material_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 import 'package:provider/provider.dart';
 
 class ProductDetails extends StatefulWidget {

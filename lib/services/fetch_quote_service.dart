@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:kancha/models/quote_model.dart';
+import 'package:arker/models/quote_model.dart';
 
 Future<QuoteModel> fetchQuote() async {
   final response = await http.get(

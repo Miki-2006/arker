@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:kancha/models/raw_material_model.dart';
-import 'package:kancha/services/raw_material_service.dart';
+import 'package:arker/models/raw_material_model.dart';
+import 'package:arker/services/raw_material_service.dart';
 
 class RawMaterialProvider with ChangeNotifier {
   final List<RawMaterialModel> _rawMaterials = [];

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/models/raw_material_model.dart';
-import 'package:kancha/providers/raw_material_provider.dart';
-import 'package:kancha/pages/warehouse/add_raw_material_widget.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/raw_material_model.dart';
+import 'package:arker/providers/raw_material_provider.dart';
+import 'package:arker/pages/warehouse/add_raw_material_widget.dart';
+import 'package:arker/styles/text/styled_text.dart';
 import 'package:provider/provider.dart';
 
 class RawMaterialsList extends StatefulWidget {

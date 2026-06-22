@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/models/notification_model.dart';
-import 'package:kancha/pages/home/notifications/components/notification_card.dart';
-import 'package:kancha/providers/notification_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/models/notification_model.dart';
+import 'package:arker/pages/home/notifications/components/notification_card.dart';
+import 'package:arker/providers/notification_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 import 'package:provider/provider.dart';
 
 class NotificationsScreen extends StatefulWidget {

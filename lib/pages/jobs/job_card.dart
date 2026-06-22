@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class JobCard extends StatelessWidget {
   final String title;

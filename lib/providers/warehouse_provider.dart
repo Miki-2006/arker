@@ -1,7 +1,7 @@
 import 'dart:collection';
 import 'package:flutter/material.dart';
-import 'package:kancha/models/warehouse_model.dart';
-import 'package:kancha/services/warehouse_service.dart';
+import 'package:arker/models/warehouse_model.dart';
+import 'package:arker/services/warehouse_service.dart';
 
 class WarehouseProvider with ChangeNotifier {
   final List<RawMaterialWarehouseModel> _list = [];

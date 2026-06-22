@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class HistoryCard extends StatelessWidget {
   const HistoryCard({super.key});

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:hugeicons/hugeicons.dart';
-import 'package:kancha/models/user_model.dart';
-import 'package:kancha/pages/profile/components/profile_top.dart';
-import 'package:kancha/pages/profile/components/profile_row.dart';
-import 'package:kancha/pages/profile/workers_list.dart';
-import 'package:kancha/providers/user_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/models/user_model.dart';
+import 'package:arker/pages/profile/components/profile_top.dart';
+import 'package:arker/pages/profile/components/profile_row.dart';
+import 'package:arker/pages/profile/workers_list.dart';
+import 'package:arker/providers/user_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 import 'package:provider/provider.dart';
 
 class ProfilePage extends StatefulWidget {

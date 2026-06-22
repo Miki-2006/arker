@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class LogoWidget extends StatelessWidget {
   const LogoWidget({super.key});
@@ -17,7 +17,7 @@ class LogoWidget extends StatelessWidget {
             height: 50,
             fit: BoxFit.contain,
           ),
-          StyledText(content: 'ARKER', weight: 900, size: 26, style: 'italic',),
+          StyledText(content: 'arker', weight: 900, size: 26, style: 'italic',),
         ],
       ),
     );

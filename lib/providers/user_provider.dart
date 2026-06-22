@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:kancha/models/user_model.dart';
-import 'package:kancha/services/user_service.dart';
+import 'package:arker/models/user_model.dart';
+import 'package:arker/services/user_service.dart';
 
 class UserProvider extends ChangeNotifier {
   UserModel? _user;

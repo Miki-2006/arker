@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/warehouse_model.dart';
-import 'package:kancha/pages/warehouse/raw-materials/raw_material_details.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/models/warehouse_model.dart';
+import 'package:arker/pages/warehouse/raw-materials/raw_material_details.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class RawMaterialCard extends StatelessWidget {
   final RawMaterialWarehouseModel rawMaterialInWarehouse;

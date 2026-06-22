@@ -1,5 +1,5 @@
-import 'package:kancha/models/product_model.dart';
-import 'package:kancha/models/raw_material_model.dart';
+import 'package:arker/models/product_model.dart';
+import 'package:arker/models/raw_material_model.dart';
 
 class RawMaterialWarehouseModel {
   final String? id;

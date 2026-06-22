@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class DateCard extends StatelessWidget {
   final double width;

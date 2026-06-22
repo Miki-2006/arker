@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/warehouse_model.dart';
-import 'package:kancha/pages/warehouse/filter_widget.dart';
-import 'package:kancha/pages/warehouse/products/product_card.dart';
-import 'package:kancha/providers/warehouse_provider.dart';
-import 'package:kancha/styles/text/styled_text.dart';
-import 'package:kancha/widgets/loader_widget.dart';
+import 'package:arker/models/warehouse_model.dart';
+import 'package:arker/pages/warehouse/filter_widget.dart';
+import 'package:arker/pages/warehouse/products/product_card.dart';
+import 'package:arker/providers/warehouse_provider.dart';
+import 'package:arker/styles/text/styled_text.dart';
+import 'package:arker/widgets/loader_widget.dart';
 import 'package:provider/provider.dart';
 
 class ProductsScreen extends StatefulWidget {

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/pages/warehouse/warehouse_page.dart';
-import 'package:kancha/pages/home/home_page.dart';
-import 'package:kancha/pages/profile/profile_page.dart';
-import 'package:kancha/pages/tasks/task_page.dart';
-import 'package:kancha/widgets/navbar_widget.dart';
+import 'package:arker/pages/warehouse/warehouse_page.dart';
+import 'package:arker/pages/home/home_page.dart';
+import 'package:arker/pages/profile/profile_page.dart';
+import 'package:arker/pages/tasks/task_page.dart';
+import 'package:arker/widgets/navbar_widget.dart';
 
 class MainShell extends StatefulWidget {
   const MainShell({super.key});

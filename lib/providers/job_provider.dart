@@ -1,8 +1,8 @@
 import 'dart:collection';
 
 import 'package:flutter/material.dart';
-import 'package:kancha/models/job_model.dart';
-import 'package:kancha/services/job_service.dart';
+import 'package:arker/models/job_model.dart';
+import 'package:arker/services/job_service.dart';
 
 class JobProvider with ChangeNotifier {
   final List<JobModel> _jobs = [];

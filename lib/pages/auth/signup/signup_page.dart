@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
-import 'package:kancha/styles/text/styled_text.dart';
+import 'package:arker/styles/text/styled_text.dart';
 
 class SignupPage extends StatelessWidget {
   const SignupPage({super.key});

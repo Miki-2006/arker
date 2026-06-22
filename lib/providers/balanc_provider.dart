@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/models/balanc_model.dart';
-import 'package:kancha/services/balanc_service.dart';
+import 'package:arker/models/balanc_model.dart';
+import 'package:arker/services/balanc_service.dart';
 
 class BalancProvider extends ChangeNotifier {
   BalancModel? _balanc;

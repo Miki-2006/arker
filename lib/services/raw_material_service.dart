@@ -1,4 +1,4 @@
-import 'package:kancha/models/raw_material_model.dart';
+import 'package:arker/models/raw_material_model.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 class RawMaterialService {

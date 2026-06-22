@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kancha/pages/tasks/date-selector/date_card.dart';
+import 'package:arker/pages/tasks/date-selector/date_card.dart';
 
 class DateSelector extends StatelessWidget {
   final DateTime selectedDate;
